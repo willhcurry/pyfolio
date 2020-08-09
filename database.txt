@@ -1,0 +1,3 @@
+email, subject, message
+cokazian@gmail.com, sdffd, fgfgfgfg
+coregamingmedia@gmail.com, Hi!, I think you're the bees knees
